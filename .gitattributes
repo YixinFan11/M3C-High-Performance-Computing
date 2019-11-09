@@ -1,0 +1,3 @@
+* linguist-verndored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
