@@ -1,7 +1,8 @@
 # M3C-High-Performance-Computing
-M3C High Performance Computing (2018-2019) at Imperial College London
 
-Contents:
+High Performance Computing (2018-2019) at Imperial College London, taught by Dr. Prasun Ray.
+
+### Repository Courseworks:
 
 - coursework1: Introduction to Python, array operations, efficient programming
 - coursework2: Introduction to Fortran90, perceptron and neural network models
